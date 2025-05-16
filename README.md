@@ -1,6 +1,6 @@
 # 📘 ATEUS — Entre a Crença e o Vazio
 
-> "A ignorância é uma bênção. Mas e se você for burro e ainda assim estiver sozinho?"
+> "A fé é uma prisão dourada. A razão, um deserto — mas com céu aberto." 
 
 ---
 
@@ -25,6 +25,24 @@ E você, entre elas. Que escolha faria?
 
 ## 📚 Inspirações
 
+### 🧠 Filósofos e Pensadores
+- Friedrich Nietzsche
+- Immanuel Kant
+- Karl Marx
+- Max Weber
+- Ludwig von Mises
+- Émile Durkheim (*O Suicídio*, *As Regras do Método Sociológico*)
+- São Tomás de Aquino
+- Tales de Mileto
+- Marco Aurélio (*Meditações*)
+- Sêneca e o Princípio do Estoicismo
+- Sun Tzu (*A Arte da Guerra: Os 13 Capítulos Originais*)
+- Gengis Khan (como arquétipo político e estratégico)
+- Cícero
+- Jean-Jacques Rousseau (*Do Contrato Social*)
+- Thomas Hobbes (*Leviatã*)
+
+### 🎥 Séries, Livros e Animes
 - *Três Corpos* (livro)
 - *Pântano* (série)
 - *Naruto* (anime)
