@@ -75,3 +75,6 @@ Quer conversar sobre o projeto, filosofar sobre moralidade ou propor colaboraç�
 Abra uma issue ou me chame diretamente.
 
 > "Talvez a solidão interplanetária seja uma dádiva, não uma maldição."
+>
+![083b50b8-f947-4a4b-a3d8-ab12e1418060](https://github.com/user-attachments/assets/a71024ec-4aae-4cc6-9469-26de9ee3e728)
+
